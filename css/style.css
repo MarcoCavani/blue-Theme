@@ -145,7 +145,7 @@
 }
 * .wrapper main h2 {
   font-size: 4rem;
-  color: #fff;
+  color: #01204d;
   font-family: "Playfair Display", serif;
   flex-basis: 100%;
   margin: 2rem 0 1rem 0;
@@ -168,7 +168,7 @@
   justify-content: center;
   margin: 0 auto;
   padding: 2%;
-  background-color: #01204d;
+  background-color: #ffffff;
   background-image: url(../images/home-bg1.2.png);
   background-position: center;
   background-repeat: no-repeat;
@@ -177,7 +177,7 @@
 * .wrapper main article .project-container {
   width: 500px;
   height: 500px;
-  border: 4pt solid #ffffff;
+  border: 4pt solid #01204d;
   margin: 2rem;
 }
 * .wrapper main article section {
@@ -237,6 +237,9 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: #01204d;
+  color: white;
+  font-family: "Broadbay";
 }
 
 /*# sourceMappingURL=style.scss.map */
